@@ -1,0 +1,17 @@
+C:\Users\João Gomes\Desktop\CondorBicicletas\obj\Debug\netcoreapp2.0\CondorBicicletas.csproj.AssemblyReference.cache
+C:\Users\João Gomes\Desktop\CondorBicicletas\obj\Debug\netcoreapp2.0\CondorBicicletas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Gomes\Desktop\CondorBicicletas\obj\Debug\netcoreapp2.0\CondorBicicletas.AssemblyInfoInputs.cache
+C:\Users\João Gomes\Desktop\CondorBicicletas\obj\Debug\netcoreapp2.0\CondorBicicletas.AssemblyInfo.cs
+C:\Users\João Gomes\Desktop\CondorBicicletas\obj\Debug\netcoreapp2.0\CondorBicicletas.csproj.CoreCompileInputs.cache
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\CondorBicicletas.deps.json
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\CondorBicicletas.runtimeconfig.json
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\CondorBicicletas.runtimeconfig.dev.json
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\CondorBicicletas.dll
+C:\Users\João Gomes\Desktop\CondorBicicletas\bin\Debug\netcoreapp2.0\CondorBicicletas.pdb
+C:\Users\João Gomes\Desktop\CondorBicicletas\obj\Debug\netcoreapp2.0\CondorBicicletas.dll
+C:\Users\João Gomes\Desktop\CondorBicicletas\obj\Debug\netcoreapp2.0\CondorBicicletas.pdb
+C:\Users\João Gomes\Desktop\CondorBicicletas\obj\Debug\netcoreapp2.0\CondorBicicletas.genruntimeconfig.cache
