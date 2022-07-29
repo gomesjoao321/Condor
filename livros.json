@@ -1,0 +1,49 @@
+[
+    {
+        "Codigo": "001",
+        "Nome": "Bicicleta Caloi Aro 29(Vermelha)",
+        "Preco": 2.500
+    },
+    {
+        "Codigo": "003",
+        "Nome": "Bicicleta Caloi Aro 29(Preta)",
+        "Preco": 2.500
+    },
+    {
+        "Codigo": "004",
+        "Nome": "Bicicleta Caloi Aro 29(Branca)",
+        "Preco": 2.500
+    },
+    {
+        "Codigo": "005",
+        "Nome": "Bicicleta Caloi Aro 29(Rosa)",
+        "Preco": 2.200
+    },
+    {
+        "Codigo": "006",
+        "Nome": "Bicicleta Monark (Feminina)",
+        "Preco": 1.500
+    },
+    {
+        "Codigo": "007",
+        "Nome": "Sofá Patti",
+        "Preco": 1.300
+    },
+    {
+        "Codigo": "008",
+        "Nome": "Sofá Joeli",
+        "Preco": 560.00
+    },
+    {
+        "Codigo": "009",
+        "Nome": "Colchão Eval",
+        "Preco": 1.300
+    },
+    {
+        "Codigo": "010",
+        "Nome": "Armário Itatiaia",
+        "Preco": 850.00
+    }
+
+]
+    
